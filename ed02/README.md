@@ -2,8 +2,6 @@
 
 Este projeto implementa algoritmos de busca cega e heurística para resolver labirintos representados em arquivos de texto. É ideal para estudar eficiência computacional, consumo de memória e qualidade de soluções em problemas de pathfinding.
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-
 ---
 
 ## 📌 Visão Geral
@@ -34,5 +32,5 @@ Cada algoritmo é testado em múltiplos labirintos, e métricas como **tempo de 
 ## 🛠️ Instalação
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/maze-solver.git
-   cd maze-solver
+   git clone https://github.com/Vinni071/inteligencia-artificial.git
+   cd ed02
